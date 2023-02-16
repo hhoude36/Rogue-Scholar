@@ -10,7 +10,7 @@ Rogue Scholar is designed for readers who want to know everything about what the
 I've always considered myself a rogue scholar. Meaning, I am not an academic but I love to investigate the things that interest me.  When I find a book I love, I go down a rabbit hole of articles, podcasts, videos, interviews with the author, and so on. I've always wanted a one-stop shop for these investigations and a way to keep track of the things I find. Rogue Scholar is the answer for me and others like me.   
 
 ## Screenshots 
-![alt GIF of funcitoning site](https://res.cloudinary.com/dqfviar71/image/upload/v1676590023/RogueScholar_copy_kbnskr.gif)
+![alt GIF of functioning site](https://res.cloudinary.com/dqfviar71/image/upload/v1676590023/RogueScholar_copy_kbnskr.gif)
 
 ***
 
