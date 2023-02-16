@@ -104,7 +104,6 @@ async function GetGutenData(){
     //FORMATING AUTHOR FOR NYT
     //===========================
     let formattedAuthor=author.split(" ");
-
     if(formattedAuthor.length > 2){
         formattedAuthor = formattedAuthor[1].trim().replace(",", "")+ "+" + formattedAuthor[2].trim().replace(",", "")+ "+" + formattedAuthor[0].trim().replace(",", "");
         console.log(formattedAuthor);
@@ -124,7 +123,6 @@ async function GetGutenData(){
     sorryMessage.className="sorryMessage"
     sorryMessage.innerText= "Unfortunately the book or author you entered is not available."
     }
-
 }
 
 
